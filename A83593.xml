@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Votes of both Houses of Parliament: with sundry articles, or acts of Parliament to confirme the same. Taken out of the records of the Tower. Also, two orders of both Houses of Parliament: the one, to all high sheriffes, justices of the peace, and other officers, within 150. miles of the city of Yorke: the other, in particular to the high sheriffs, justices of the peace, and other officers within the county of Lancaster. In generall, to all the counties of England, and Dominion of Wales. Die Sabbathi 28. Maii 1642. Ordered by the Lords in Parliament, that these votes with the articles be forthwith printed and published. Io. Browne Cleric. Parliamentorum.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83593</idno>
+            <idno type="STC">Wing E2448</idno>
+            <idno type="STC">Thomason E149_8</idno>
+            <idno type="STC">ESTC R10461</idno>
+            <idno type="EEBO-CITATION">99858844</idno>
+            <idno type="PROQUEST">99858844</idno>
+            <idno type="VID">110903</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110903)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E149[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Votes of both Houses of Parliament: with sundry articles, or acts of Parliament to confirme the same. Taken out of the records of the Tower. Also, two orders of both Houses of Parliament: the one, to all high sheriffes, justices of the peace, and other officers, within 150. miles of the city of Yorke: the other, in particular to the high sheriffs, justices of the peace, and other officers within the county of Lancaster. In generall, to all the counties of England, and Dominion of Wales. Die Sabbathi 28. Maii 1642. Ordered by the Lords in Parliament, that these votes with the articles be forthwith printed and published. Io. Browne Cleric. Parliamentorum.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Griffin, for Cristopher Latham,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The votes and the two orders were previously published separately as ".. Votes of both houses .." and "Two orders: the one, to all high sheriffes ..".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110903:1"/>
+            <!-- PDF PAGE 1 -->
+            <pb facs="tcp:110903:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>VOTES OF BOTH Houſes of Parliament: With ſundry Articles, or Acts of Par<g ref="char:EOLhyphen"/>liament to confirme the ſame.</p>
+            <p>Taken out of the Records of the Tower.</p>
+            <p>Alſo, Two Orders of both Houſes of PARLIAMENT: <hi>The one,</hi> To all High Sheriffes, Juſtices of the peace, and other Officers, within 150. Miles of the City of YORKE: <hi>The other,</hi> In particular to the high Sheriffs, Juſtices of the peace, and other Officers within the County of <hi>Lancaſter.</hi> In generall, to all the Counties of <hi>England,</hi> and Dominion of <hi>Wales.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Sabbathi 28. Maii 1642.</date>
+                           </dateline>
+                        </opener>
+                        <p>Ordered by the Lords in Parliament, that theſe Votes with the Articles be forthwith printed and publiſhed.</p>
+                        <closer>
+                           <signed>Io. Browne Cleric. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. Griffin,</hi> for <hi>Criſtopher Latham.</hi> 1642</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:110903:2"/>
+            <!-- PDF PAGE 2 -->
+            <opener>
+               <dateline>
+                  <date>Die Veneris 20. Maii, 1642.</date>
+               </dateline>
+            </opener>
+            <head>Reſolved upon the Queſtion, by the Lords and Commons, &amp;c.</head>
+            <p>THat it appeares that the King (ſeduced by wic<g ref="char:EOLhyphen"/>ked Counſell) intends to make warre againſt the Parliament, who (in all their conſultations and actions) have propoſed no other end unto themſelves but the care of his Kingdoms, and the performance of all duty and loyalty to his perſon.</p>
+            <p>
+               <hi>Reſolved, &amp;c.</hi>
+               <lb/>
+That whenſoever the King maketh warre upon the Parliament, it is a breach of the truſt repoſed in him by his people, contrary to his oath, and tending to the diſſo<g ref="char:EOLhyphen"/>lution of this government.</p>
+            <p>
+               <hi>Reſolved, &amp;c.</hi>
+               <lb/>
+That whoſoever ſhall ſerve or aſſiſt him in ſuch warres, are Traitours, by the fundamentall Laws of this Kingdom; and have been ſo adjudged by two Acts of Parliament.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:110903:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>Out of the <hi>Roll</hi> of the <hi>Parliament</hi> held at Weſt<g ref="char:EOLhyphen"/>minſter, 11 <hi>R.</hi> 2.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>Tem,</hi> by the ſaid encroachment, the aforeſaid <hi>Alexander</hi> Arch-biſhop of Yorke, <hi>Robert de Vere</hi> Duke of Ireland, <hi>Michael de la Poole</hi> Earle of Suffolke, <hi>Robert Treſſilian</hi> falſe Juſtice, and <hi>Nichol. Brembre</hi> falſe Knight of London, have done that<g ref="char:punc">▪</g> whereas at the laſt Parliament, all the Lords and other Wiſe men and Commons there aſſembled, ſeeing the loſſe of the King and his kingdome eminent, as well for the perils and miſchieſs aforeſaid, as that the King was departed from the Counſell of the King<g ref="char:EOLhyphen"/>dome, and hearkened wholly to the Counſell of the aforeſaid maleta<g ref="char:EOLhyphen"/>ctors and traytors, as alſo becauſe the French King with his Royall power was ſhipt upon the Sea, ready to have come into England to de<g ref="char:EOLhyphen"/>ſtroy the Kingdome, and the Engliſh tongue, and that no ordinance nor government was then eſtabliſhed for the ſafety of the King nor of the kingdome, they knew not other remedy thereupon, but remonſtrated unto the King at full, how that he was ill governed, counſelled, and car<g ref="char:EOLhyphen"/>ried away, by the aforeſaid traytors and malefactors, declaring unto him their wicked conditions, and required him moſt humbly as his loyall ſubjects for the ſafety of him, and of his whole kingdome, and for the avoiding of the perils aforeſaid, to let go and put from him the afore<g ref="char:EOLhyphen"/>ſaid malefactours and traytours out of his preſence and company, and that he would not do hereafter according to their wicked counſels, but that he would follow the wiſe, loyall, and diſcreet men of the kingdom, and thereupon the ſaid traytors and malefactors, ſeeing this good and honourable opinion of the Parliament, and to diſturbe their good pur<g ref="char:EOLhyphen"/>poſe therein, by their falſe counſell cauſed our Lord the King to com<g ref="char:EOLhyphen"/>mand the Major of London to cauſe a great power of the people of Lon<g ref="char:EOLhyphen"/>don to be ſuddenly levied, for to kill and put to death all the ſaid Lords and Commons, excepting only ſuch as were of their party, at the doing of which wicked act, the ſaid great malefactors, and traitors ſhould have been parties, &amp; preſent to the deſtruction of the King and all his Realme.</p>
+            <p>
+               <label>Article 29.</label> 
+               <hi>Item,</hi> For to accompliſh this high treaſon aforeſaid by their councell, the aforeſaid <hi>Alexander</hi> Archbiſhop of Yorke, <hi>Robert <g ref="char:V">Ʋ</g>eere</hi> Duke of Ireland, and <hi>Michael de la Pole</hi> Earle of Suffolke, cauſed
+<pb facs="tcp:110903:3"/>
+               <!-- PDF PAGE 3 -->the King to ſend his Letters of Credence to his adverſary the <hi>French King:</hi> ſome by one <hi>Nicholas Southwell,</hi> Groome of his Chamber, and ſome by other perſons of meane fortune, as well Aliens as Denizent, requiring and praying the ſaid French King, that with his power and Counſell he would be aiding and aſſiſting to our Lord the King to de<g ref="char:EOLhyphen"/>ſtroy and put to death the ſaid Lords, and other Engliſh, which the King then held his enemies and traytors, as before, to the great diſquiet and trouble of his whole kingdome.</p>
+            <p>
+               <label>Article 30.</label> 
+               <hi>Item,</hi> The aforeſaid <hi>Alexander</hi> Archbiſhop of Yorke, <hi>Robert de Veere</hi> Duke of Ireland, <hi>Michael de la Poole</hi> Earle of Suffolke, en<g ref="char:EOLhyphen"/>croaching unto themſelves Royall Power, cauſed the King to promiſe unto the French King, by his ſaid Letters and Meſſages, for to obtaine aide and aſſiſtance from the French King, and his power, for to accom<g ref="char:EOLhyphen"/>pliſh that high treaſon, prodition, and murder, to give and ſurrender un<g ref="char:EOLhyphen"/>to the ſaid French King the Towne and Caſtle of Calis, and all other Caſtles and Forts in the March of Picardy and Artoys, the Caſtles and Townes of Chirlurge, and of Brerte, to the great diſhonour, trouble, and dammage of the King and of his Kingdome.</p>
+            <p>
+               <label>Article 37.</label> 
+               <hi>Item,</hi> the aſoreſaid <hi>Alexander</hi> Archbiſhop of Yorke, <hi>Robert de <g ref="char:V">Ʋ</g>ere</hi> Duke of Ireland, <hi>Michael de la poole</hi> Earle of Suffolke, <hi>Robert Trelſillian</hi> falſe Juſtice, and <hi>Nicholas Brenbre</hi> falſe Knight of London, malefactors and Traytors, during the time of the ſaid protection, to the overthrowing of the ſaid appeale, falſely Counſelled, and cauſed the King to command by his letters, divers Knights, Eſquires, his Sheriffes, and others his officers of divers Counties, to raiſe and aſſemble all the power that they could to come with the ſaid Duke of Ireland, againſt the aforeſaid other Lords Appellants, ſuddainely to make warre againſt them and deſtroy them.</p>
+            <p>
+               <label>Article 38.</label> 
+               <hi>Item,</hi> During the time of the ſaid protection, the aforeſaid <hi>Robert de veere</hi> Duke of Ireland, <hi>Michael de la poole.</hi> Earel of Suffolke, <hi>Alexander</hi> Archbiſhop of Yorke, <hi>Nicholas Brenbre</hi> falſe Knight of Lon<g ref="char:EOLhyphen"/>don, cauſed the King by his Letters, to ſignifie to the ſaid Duke of Ire<g ref="char:EOLhyphen"/>land, how that he and others were appealed of treaſon by the ſaid <hi>Tho<g ref="char:EOLhyphen"/>mas</hi> Duke of Gloceſter Conſtable of England, <hi>Richard</hi> Earle of <hi>Arun<g ref="char:EOLhyphen"/>dell</hi> and <hi>Surry,</hi> and <hi>Thomas</hi> Earle of <hi>Warwick.</hi> and how that the King had thereupon given day to the ſaid parties, untill the next Parliament, and how hee had taken both parties, with their men, goods and Chattells, into his ſpeciall protection, and beſides it was contained in the ſaid let<g ref="char:EOLhyphen"/>ters of the King, that if the ſaid Duke had ſufficient power he ſhould not faile to come on with all his aforeſaid power, and to come to the King;
+<pb facs="tcp:110903:3"/>
+               <!-- PDF PAGE 3 -->and ſoone after they procured the King, to write unto the ſaid Duke of Ireland, that he ſhould take the field, with all his power, which he could gather together, and that the King would meet him withall his power, and that the King would with him put in hazard his Royall perſon; and that the King was in great danger himſelfe and his whole kingdome if he were not helped and ſuccoured by theſaid Duke of Ireland, And that the Duke of Ireland ſhould make knowne this unto all the men that were aſſembled unto him; and that the King would pay all the wages, and charges of the ſaid Duke of Ireland, and of all the men aſſembled by him, by vertue of which letters, and the malicious and Trayterous exitations as well of the ſaid Duke, as of his Adherents and all the other malefactors and Traytos, the ſaid Duke of Ireland aſſembled a great number of men at Armes and Archers, as well the Connties of Lan<g ref="char:EOLhyphen"/>caſter, Cheſter, and Wales, as of other places of the Kingdome, to de<g ref="char:EOLhyphen"/>ſtroy, and to put to death the aforeſaid Lords, and all others which were aſſenting to the making of the ſaid Ordinance, Statute and Commiſſion, unto the deſtruction of the King, and his Kingdome.</p>
+            <p>
+               <label>Article 39.</label> 
+               <hi>Jtem</hi> the ſaid <hi>Robert de veere</hi> Duke of Ireland, falſe tray<g ref="char:EOLhyphen"/>tore to the King and kingdome, aſſembled a great power of men at Armes, and Archers of the Counties of Lancaſter, Cheſter, and Wales, and of divers other places, to the intent to have trayterouſly deſtroyed ſo farre as in him lay, the Lords <hi>Thomas</hi> Duke of Gloceſter Conſtable of England, <hi>Henry</hi> Earle of Derby, <hi>Richard</hi> Earle of Arundell and Sur<g ref="char:EOLhyphen"/>rey, <hi>Thomas</hi> Earle of Warwick, and <hi>Thomas</hi> Earle Marſhall, and other Loyall Subjects of our Lord the King, as well to the deſtruction and an<g ref="char:EOLhyphen"/>nihilation of our Lord the King and of his whole kingdome; and ſo he rid with great power and force of men at Armes, and Archers, from the County of Cheſter through the kingdome, till he came neere to a cerraine place, which place is called Rotcotbridge, neere to Cotſwold, inchroaching to himſelfe Royall power, cauſed the banner of the King to be diſplayed in his company, contrary to the dignity of the King and of his Crowne, at which time the ſaid Duke of Ireland and his com<g ref="char:EOLhyphen"/>pany, were by the grace of God, diſappointed of their wicked purpoſe.</p>
+            <p>
+               <hi>Memorand.</hi> That the ſame Roll containing the Petition of the afore<g ref="char:EOLhyphen"/>ſaid appeale diſtinguiſhed by Articles as above by quotation is marked, was delivered in the preſent Parliament, by the aforeſaid Duke, and Earles appellants; &amp; <hi>Memorand,</hi> that afterwards in the ſame Parli<g ref="char:EOLhyphen"/>ament, the 1. 2. 11. 15. 17. Articles foreſaid are declared, and adjud<g ref="char:EOLhyphen"/>ged treaſon, and every one of them is declared and adjudged treaſon, And that that which is contained in the 22. Article of the aforeſaid Ar<g ref="char:EOLhyphen"/>ticles concerning the levying of men, to make warre and deſtroy the
+<pb facs="tcp:110903:4"/>
+               <!-- PDF PAGE 4 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:110903:4"/>
+               <!-- PDF PAGE 4 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:110903:5"/>
+               <!-- PDF PAGE 5 -->Lords and Lieges of the King is likewiſed declared and adjudged trea<g ref="char:EOLhyphen"/>ſon. And that the 28. 29. 30. 31. 32. 37. 38. 39. Articles aforeſaid are alſo declared and adjudged treaſon, and every one of them is declared and ad<g ref="char:EOLhyphen"/>judged treaſon, as is ſet downe in the Record and the proceſſe annexed and affixed to this Roll on the back ſide of the ſaid Roll by theſe words <hi>quelle petition levee in preſence du Roy ure dit Sr. &amp;c.</hi>
+            </p>
+            <p>This judgement was confirmed by act of Parliament. 11. R. 2. Cap. 3.1 <hi>H.</hi> 4. cap. 3. and 4. of the old printed ſtatutes, and the ſaid ſtatute 1. <hi>H.</hi> 4. repeales and makes void the Parliament of 21. <hi>R.</hi> 2. and all the proceedings thereof, in which forc'd and tumultuary Parliament, the Acts of the Parliament of 11. <hi>R.</hi> 2. had beene reverſed.</p>
+         </div>
+         <div xml:lang="lat" type="part">
+            <head>
+               <hi>Rot. Parl.</hi> 11. R. 2.</head>
+            <p>MEmorandum quod iſte idem Rotulus continens petitionem appelli ſupra<g ref="char:EOLhyphen"/>dictiper articulos diſtinctè pro ut ſuperius per quotationem annotatur liberatus fuit in praſenti Parliamento per praedict. Ducem &amp; Comites appel<g ref="char:EOLhyphen"/>lantes; Et mem. quod poſtea in code<g ref="char:cmbAbbrStroke">̄</g> Parliamento primus, ſecundus, undeci<g ref="char:EOLhyphen"/>mus, quintus decimus, &amp; decimus ſeptimus articuli praedicti declarantur &amp; adjudicantur Proditio; &amp; eorum quilibet declaratur &amp; adjudicatur prodi<g ref="char:EOLhyphen"/>tio; &amp; quod illud quod continetur in viceſſimo ſecundo articulo praedictorum articulorum tangens levationem gentium ad guerrand. &amp; deſtruend. domi<g ref="char:EOLhyphen"/>nos &amp; legeos legis ſimiliter declaratur &amp; adjudicatur proditie: Et quod vi<g ref="char:EOLhyphen"/>ceſſimus octavus, viceſſimus nonus, triceſſimus, triceſſimus primus, triceſſi<g ref="char:EOLhyphen"/>mus ſecundus, triceſſimus ſeptimus, triceſſimus octavus, &amp; triceſſimus nonus articuli predicti declarantur etiam &amp; adjudicantur Proditio, &amp; corum qui<g ref="char:EOLhyphen"/>libet declaratur &amp; adjudicatur Proditio; prout annotatur in Recordo &amp; pro<g ref="char:EOLhyphen"/>ceſſu huic Rotul. conſutis &amp; annexis. In dorſo Ejuſdem Rotuli per haec ver<g ref="char:EOLhyphen"/>ba. Quel le petition lui in preſence du roy noſtre dit Henneres &amp; &amp;c.</p>
+            <argument>
+               <p>Crom at. per ſtatut. <hi>1.</hi> H. <hi>4.</hi> cap. <hi>3.</hi> &amp; <hi>4.</hi> in the old printed ſtatutes.</p>
+            </argument>
+         </div>
+         <div type="part">
+            <pb facs="tcp:110903:5"/>
+            <!-- PDF PAGE 5 -->
+            <opener>
+               <dateline>
+                  <date>Die Veneris 27 Maii. 1642.</date>
+               </dateline>
+            </opener>
+            <p>WHereas it appears to the Lords and Commons, that the King ſeduced by wicked Counſell, intends to make warre upon his Parliament. It is therefore Ordered by the Lords and Commons, that the High Sheriffes, and Juſtices of the Peace, and other Officers, within the ſame Counties, Cities, and Townes Corporate, ſituate within 150 Miles of the City of <hi>Yorke,</hi> ſhall forthwith take ſpeciall care for to make ſtay of all Armes, and Ammunition carrying to<g ref="char:EOLhyphen"/>wards <hi>Yorke,</hi> untill they have given notice thereof unto the Lords and Commons, and ſhall have received their further direction. And for the better affecting hereof, the ſaid High Sheriffes, Juſtices of the peace, and other officers, are further to take ſpeciall Care, that ſtrict watches be kept within their ſeverall limits, and juriſdictions, for the ſearching for, and ſeizing of, all ſuch Armes and Ammunition, as likewiſe for the apprehending all perſons going with the ſame.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:110903:6"/>
+            <!-- PDF PAGE 6 -->
+            <opener>
+               <dateline>
+                  <date>Die Sabbathi 28. May, 1642.</date>
+               </dateline>
+            </opener>
+            <p>WHereas it appeares, that the King ſeduced by wicked-Counſell, intends to make war againſt the Parliament, and under the co<g ref="char:EOLhyphen"/>lor of a guard to ſecure his royall Perſon, doth command troopes both of Horſe and Foote to aſſemble at <hi>Yorke;</hi> All which is againſt the Lawes of the Kingdome, tending to the diſſolution of the Par<g ref="char:EOLhyphen"/>liament, and deſtruction of his people. It is therefore ordered by the Lords, and Commons in Parliament, that the Sheriffes of the County of <hi>Lancaſter,</hi> and all other Sheriffe of the Kingdome of <hi>England,</hi> &amp; Dominion of <hi>Wales,</hi> ſhall by the power of that County, and of their ſeverall Counties, reſpecti<g ref="char:EOLhyphen"/>vely, ſuppreſſe the raiſing, and comming together of any Souldiers, Horſe or Foote, by any warrant, commiſſion, or order from his Majeſty, without the adviſe and conſent of the Lords, and Commons in Parliament; And that all perſons whatſoever doe forbeare to execute any ſuch commiſſion, or war<g ref="char:EOLhyphen"/>rant for levying Souldiers, or gathering them together without conſent of Parliament; And theſe who ſhall execute, or obey any ſuch Commiſſion, or warrant, are hereby declared to be diſturbers of the peace of the Kingdome. And the Lord Lievtenant of the County of <hi>Lancaſter,</hi> and all Lords Liev<g ref="char:EOLhyphen"/>tenants of all other Counties in the Kingdome of <hi>England,</hi> or Dominion of <hi>Wales</hi> reſpectively, as likewiſe all deputy Lievtenants, Captaines and of<g ref="char:EOLhyphen"/>ficers of the Trained Bands, and all Majors, Juſtices of peace, and other his Majeſties loving Subiects, are hereby commanded, and required to be ayding, and aſſiſting to the ſaid Sheriffe of the County of <hi>Lancaſter,</hi> and to the other Sheriffes of the other Counties of this Kingdome, and of the Dominion of <hi>Wales;</hi> And that his Majeſties loving Subjects may the better underſtand what the Law, and their owne duty is in this behalfe, the ſaid Sheriffe of <hi>Lancaſhire,</hi> and other Sheriffes of the other Counties of this Kingdome reſpectively, ſhall cauſe this preſent Order, forthwith to be publiſh<g ref="char:EOLhyphen"/>ed in the ſeverall Market Townes within their ſaid Counties.</p>
+            <div type="license">
+               <opener>
+                  <dateline>
+                     <date>Sabbathi 28. Maii. 1642.</date>
+                  </dateline>
+               </opener>
+               <p>Ordered by the Lords in Parliament, that theſe ſhall be forth<g ref="char:EOLhyphen"/>with Printed and publiſhed.</p>
+               <closer>
+                  <signed>
+                     <hi>IO. BROWNE,</hi> Cler. Parliamentorum:</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110903:6"/>
+            <!-- PDF PAGE 6 -->
+         </div>
+      </body>
+   </text>
+</TEI>
